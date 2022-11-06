@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -  I'm constantly looking for fresh concepts that I can assist turn into innovative, effective solutions. 
 
 <hr>
-<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500" height="350" alt="girl coding img" >
+<img align="right" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966" width="500" height="350" alt="girl coding img" >
 
  ### 🔭 I’m currently working on ...
 
