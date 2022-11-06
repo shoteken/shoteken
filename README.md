@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 -  I'm currently following Bacheolor of Information Technology degree at University of Colombo School of Computing. <br>
 -  I'm constantly looking for fresh concepts that I can assist turn into innovative, effective solutions. 
 
+<hr>
+<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500" height="350" alt="girl coding img" >
+
  ### 🔭 I’m currently working on ...
 
 - My projects
