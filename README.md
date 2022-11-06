@@ -16,4 +16,17 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<h2 align="center">Hi, I'm Sampath Somathilake</h2><br>
+<h2 align="center">Hi, I'm Sampath Dinesh</h2><br>
+-  I'm currently following Bacheolor of Information Technology degree at University of Colombo School of Computing.
+-  I'm constantly looking for fresh concepts that I can assist turn into innovative, effective solutions. 
+
+<hr>
+
+[![GitHub: @shoteken](https://img.shields.io/github/followers/shoteken?color=green&logo=github&style=flat-square)](https://github.com/shoteken)
+![](https://komarev.com/ghpvc/?username=shoteken&style=flat-square&color=brightgreen)
+
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn: @shoteken](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoteken/)](https://www.linkedin.com/in/shoteken/)
+
+<hr>
