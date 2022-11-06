@@ -35,6 +35,15 @@ Here are some ideas to get you started:
 
 - My projects
 - My CSS skill
-- My Java Script skill
+- My JavaScript skill
 - My HTML skill
 - My PHP skill
+
+### 🌱 I’m currently learning ...
+
+- Html
+- CSS
+- Java
+- MySQL
+- PHP
+- JavaScript
