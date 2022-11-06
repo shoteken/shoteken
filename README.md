@@ -30,3 +30,11 @@ Here are some ideas to get you started:
 [![LinkedIn: @shoteken](https://img.shields.io/badge/-shoteken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sampath-somathilake-85b7586a/)](https://www.linkedin.com/in/sampath-somathilake-85b7586a/)
 
 <hr>
+
+ ### 🔭 I’m currently working on ...
+
+- My projects
+- My CSS skill
+- My Java Script skill
+- My HTML skill
+- My PHP skill
