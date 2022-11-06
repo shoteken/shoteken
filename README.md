@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 [![LinkedIn: @shoteken](https://img.shields.io/badge/-shoteken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sampath-somathilake-85b7586a/)](https://www.linkedin.com/in/sampath-somathilake-85b7586a/)
 
 <hr>
+
+[![@shoteken's Holopin board](https://www.holopin.io/@shoteken)](https://www.holopin.io/@shoteken)
