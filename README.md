@@ -20,17 +20,6 @@ Here are some ideas to get you started:
 -  I'm currently following Bacheolor of Information Technology degree at University of Colombo School of Computing. <br>
 -  I'm constantly looking for fresh concepts that I can assist turn into innovative, effective solutions. 
 
-<hr>
-
-[![GitHub: @shoteken](https://img.shields.io/github/followers/shoteken?color=green&logo=github&style=flat-square)](https://github.com/shoteken)
-![](https://komarev.com/ghpvc/?username=shoteken&style=flat-square&color=brightgreen)
-
-<h3 align="left">Connect with me:</h3>
-
-[![LinkedIn: @shoteken](https://img.shields.io/badge/-shoteken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sampath-somathilake-85b7586a/)](https://www.linkedin.com/in/sampath-somathilake-85b7586a/)
-
-<hr>
-
  ### 🔭 I’m currently working on ...
 
 - My projects
@@ -47,3 +36,16 @@ Here are some ideas to get you started:
 - MySQL
 - PHP
 - JavaScript
+
+ ### 📫 How to reach me: sampathsome7@gmail.com
+ 
+ <hr>
+
+[![GitHub: @shoteken](https://img.shields.io/github/followers/shoteken?color=green&logo=github&style=flat-square)](https://github.com/shoteken)
+![](https://komarev.com/ghpvc/?username=shoteken&style=flat-square&color=brightgreen)
+
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn: @shoteken](https://img.shields.io/badge/-shoteken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sampath-somathilake-85b7586a/)](https://www.linkedin.com/in/sampath-somathilake-85b7586a/)
+
+<hr>
