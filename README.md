@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shoteken/shoteken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+
+<h2 align="center">Hi, I'm Sampath Somathilake</h2><br>
