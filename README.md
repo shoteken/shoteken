@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![@shoteken's Holopin board](https://www.holopin.io/@shoteken)](https://www.holopin.io/@shoteken)
+[![@shoteken's Holopin board](https://www.holopin.me/shoteken)](https://www.holopin.io/@shoteken)
