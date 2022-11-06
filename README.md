@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <h2 align="center">Hi, I'm Sampath Dinesh</h2><br>
--  I'm currently following Bacheolor of Information Technology degree at University of Colombo School of Computing.
+-  I'm currently following Bacheolor of Information Technology degree at University of Colombo School of Computing. <br>
 -  I'm constantly looking for fresh concepts that I can assist turn into innovative, effective solutions. 
 
 <hr>
