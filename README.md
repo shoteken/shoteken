@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn: @shoteken](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sampath-somathilake-85b7586a/)](https://www.linkedin.com/in/sampath-somathilake-85b7586a/)
+[![LinkedIn: @shoteken](https://img.shields.io/badge/-shoteken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sampath-somathilake-85b7586a/)](https://www.linkedin.com/in/sampath-somathilake-85b7586a/)
 
 <hr>
