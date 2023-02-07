@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -  I'm constantly looking for fresh concepts that I can assist turn into innovative, effective solutions. 
 
 <hr>
-<img align="right" src="https://64.media.tumblr.com/3da2e519e9d365c5c6fe62ecd7eec5b8/tumblr_ozom5a0X9o1qbgdnxo1_540.gifv" width="500" height="350" alt="coding img" >
+<img align="right" src="https://media0.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b95205a45vhhzd8pu8emgd9uhtaz057fdvj9dpcfsq94&rid=200w.gif&ct=g" width="500" height="350" alt="coding img" >
 
  ### 🔭 I’m currently working on ...
 
