@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - My JavaScript skill
 - My HTML skill
 - My PHP skill
+- My C# Skill
 
 ### 🌱 I’m currently learning ...
 
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 - MySQL
 - PHP
 - JavaScript
+- C#
 
  ### 📫 How to reach me: sampathsome7@gmail.com
  
